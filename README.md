@@ -21,9 +21,6 @@ A 3D game engine written in c++.
 ### [Ion Editor](https://github.com/AlikGreen/IonEditor)
 An editor ui for my Ion Game Engine
 
-### [urhi](https://github.com/AlikGreen/urhi)
-A render hardware interface library written in c++ for high performace rendering applications. It currently has backends of vulkan 1.4 and opengl 4.6 with plans to add metal, direct3d 12 and opengl es.
-
 ### [entis](https://github.com/AlikGreen/entis)
 A high performance archetype based entity component system written in c++.
 
